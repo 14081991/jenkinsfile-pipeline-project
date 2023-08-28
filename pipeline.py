@@ -1,0 +1,1 @@
+print('Dünya tersine dönse vazgecmem.')
